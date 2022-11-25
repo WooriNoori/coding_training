@@ -12,3 +12,4 @@ while True:
       print(i)
       break
     i+=1
+# 백준 4375 소스코드
