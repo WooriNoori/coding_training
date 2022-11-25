@@ -8,8 +8,7 @@ while True:
   i = 1
   while True:
     num = (1-10**i)//(1-10)
-    if num % n == 0:
+    if num%n == 0:
       print(i)
       break
-    i+=1
-# 백준 4375 소스코드
+    i += 1
